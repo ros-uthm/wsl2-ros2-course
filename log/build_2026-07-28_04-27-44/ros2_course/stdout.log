@@ -1,0 +1,41 @@
+running egg_info
+creating ../../build/ros2_course/ros2_course.egg-info
+writing ../../build/ros2_course/ros2_course.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_course/ros2_course.egg-info/dependency_links.txt
+writing requirements to ../../build/ros2_course/ros2_course.egg-info/requires.txt
+writing top-level names to ../../build/ros2_course/ros2_course.egg-info/top_level.txt
+writing manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'
+reading manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build
+creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib
+creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course
+copying ros2_course/__init__.py -> /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course
+running install
+running install_lib
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course
+copying /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course/__init__.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course
+byte-compiling /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index/packages
+copying resource/ros2_course -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index/packages
+copying package.xml -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch
+copying launch/rsp.launch.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch
+copying launch/gazebo.launch.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+copying urdf/gazebo.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+copying urdf/robot.urdf.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+copying urdf/camera.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+copying urdf/inertial_macros.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+copying urdf/lidar.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/config
+creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/maps
+running install_egg_info
+Copying ../../build/ros2_course/ros2_course.egg-info to /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/mfauzi/wsl2-ros2-course/build/ros2_course/install.log'

@@ -1,0 +1,43 @@
+[2.114s] Invoking command in '/home/mfauzi/wsl2-ros2-course/src/ros2_course': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mfauzi/wsl2-ros2-course/build/ros2_course/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_course build --build-base /home/mfauzi/wsl2-ros2-course/build/ros2_course/build install --record /home/mfauzi/wsl2-ros2-course/build/ros2_course/install.log --install-scripts $base/lib/ros2_course --single-version-externally-managed install_data
+[2.557s] running egg_info
+[2.557s] creating ../../build/ros2_course/ros2_course.egg-info
+[2.585s] writing ../../build/ros2_course/ros2_course.egg-info/PKG-INFO
+[2.587s] writing dependency_links to ../../build/ros2_course/ros2_course.egg-info/dependency_links.txt
+[2.587s] writing requirements to ../../build/ros2_course/ros2_course.egg-info/requires.txt
+[2.588s] writing top-level names to ../../build/ros2_course/ros2_course.egg-info/top_level.txt
+[2.588s] writing manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'
+[2.648s] reading manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'
+[2.649s] writing manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'
+[2.650s] running build
+[2.650s] running build_py
+[2.651s] creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build
+[2.652s] creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib
+[2.653s] creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course
+[2.653s] copying ros2_course/__init__.py -> /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course
+[2.653s] running install
+[2.661s] running install_lib
+[2.687s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course
+[2.688s] copying /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course/__init__.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course
+[2.689s] byte-compiling /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course/__init__.py to __init__.cpython-312.pyc
+[2.690s] running install_data
+[2.691s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index
+[2.691s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index
+[2.691s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index/packages
+[2.692s] copying resource/ros2_course -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index/packages
+[2.692s] copying package.xml -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course
+[2.693s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch
+[2.693s] copying launch/rsp.launch.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch
+[2.694s] copying launch/gazebo.launch.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch
+[2.695s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+[2.695s] copying urdf/gazebo.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+[2.695s] copying urdf/robot.urdf.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+[2.696s] copying urdf/camera.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+[2.696s] copying urdf/inertial_macros.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+[2.697s] copying urdf/lidar.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf
+[2.697s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/config
+[2.698s] creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/maps
+[2.698s] running install_egg_info
+[2.726s] Copying ../../build/ros2_course/ros2_course.egg-info to /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course-0.0.0-py3.12.egg-info
+[2.728s] running install_scripts
+[2.927s] writing list of installed files to '/home/mfauzi/wsl2-ros2-course/build/ros2_course/install.log'
+[2.965s] Invoked command in '/home/mfauzi/wsl2-ros2-course/src/ros2_course' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mfauzi/wsl2-ros2-course/build/ros2_course/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_course build --build-base /home/mfauzi/wsl2-ros2-course/build/ros2_course/build install --record /home/mfauzi/wsl2-ros2-course/build/ros2_course/install.log --install-scripts $base/lib/ros2_course --single-version-externally-managed install_data

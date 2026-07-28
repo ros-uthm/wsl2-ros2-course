@@ -1,0 +1,77 @@
+[0.000000] (-) TimerEvent: {}
+[0.000498] (ros2_course) JobQueued: {'identifier': 'ros2_course', 'dependencies': OrderedDict()}
+[0.000638] (ros2_course) JobStarted: {'identifier': 'ros2_course'}
+[0.097711] (-) TimerEvent: {}
+[0.198310] (-) TimerEvent: {}
+[0.298962] (-) TimerEvent: {}
+[0.399693] (-) TimerEvent: {}
+[0.500892] (-) TimerEvent: {}
+[0.601519] (-) TimerEvent: {}
+[0.702514] (-) TimerEvent: {}
+[0.803281] (-) TimerEvent: {}
+[0.903882] (-) TimerEvent: {}
+[1.004388] (-) TimerEvent: {}
+[1.105027] (-) TimerEvent: {}
+[1.205847] (-) TimerEvent: {}
+[1.306469] (-) TimerEvent: {}
+[1.406950] (-) TimerEvent: {}
+[1.507522] (-) TimerEvent: {}
+[1.608041] (-) TimerEvent: {}
+[1.708540] (-) TimerEvent: {}
+[1.808988] (-) TimerEvent: {}
+[1.909998] (-) TimerEvent: {}
+[2.010925] (-) TimerEvent: {}
+[2.107621] (ros2_course) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/ros2_course', 'build', '--build-base', '/home/mfauzi/wsl2-ros2-course/build/ros2_course/build', 'install', '--record', '/home/mfauzi/wsl2-ros2-course/build/ros2_course/install.log', '--install-scripts', '$base/lib/ros2_course', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/mfauzi/wsl2-ros2-course/src/ros2_course', 'env': {'LINOROBOT2_BASE': '2wd', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'GZ_SIM_RESOURCE_PATH': '/opt/ros/jazzy/share', 'USER': 'mfauzi', 'GZ_CONFIG_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/share/gz:/opt/ros/jazzy/opt/sdformat_vendor/share/gz:/opt/ros/jazzy/opt/gz_gui_vendor/share/gz:/opt/ros/jazzy/opt/gz_transport_vendor/share/gz:/opt/ros/jazzy/opt/gz_rendering_vendor/share/gz:/opt/ros/jazzy/opt/gz_plugin_vendor/share/gz:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/share/gz:/opt/ros/jazzy/opt/gz_msgs_vendor/share/gz:/opt/ros/jazzy/opt/gz_common_vendor/share/gz', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor/lib:/opt/ros/jazzy/opt/gz_sensors_vendor/lib:/opt/ros/jazzy/opt/gz_physics_vendor/lib:/opt/ros/jazzy/opt/sdformat_vendor/lib:/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_gui_vendor/lib:/opt/ros/jazzy/opt/gz_transport_vendor/lib:/opt/ros/jazzy/opt/gz_rendering_vendor/lib:/opt/ros/jazzy/opt/gz_plugin_vendor/lib:/opt/ros/jazzy/opt/gz_fuel_tools_vendor/lib:/opt/ros/jazzy/opt/gz_msgs_vendor/lib:/opt/ros/jazzy/opt/gz_common_vendor/lib:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_tools_vendor/lib:/opt/ros/jazzy/opt/gz_ogre_next_vendor/lib:/opt/ros/jazzy/opt/gz_dartsim_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'WT_PROFILE_ID': '{2c4de342-38b7-51cf-b940-2309a097f518}', 'HOME': '/home/mfauzi', 'OLDPWD': '/home/mfauzi', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/mfauzi/ros2_ws/install', 'ROS_DISTRO': 'jazzy', 'LOGNAME': 'mfauzi', 'NAME': 'ProART-PX13', 'WSL_INTEROP': '/run/WSL/16356_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'PIP_BREAK_SYSTEM_PACKAGES': '1', 'TERM': 'xterm-256color', 'PATH': '/home/mfauzi/.local/bin:/home/mfauzi/.opencode/bin:/opt/ros/jazzy/opt/gz_msgs_vendor/bin:/opt/ros/jazzy/opt/gz_tools_vendor/bin:/opt/ros/jazzy/opt/gz_ogre_next_vendor/bin:/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Users/mfrob/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/mfrob/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/ProgramData/mfrob/GitHubDesktop/bin:/mnt/c/Users/mfrob/AppData/Local/GitHubDesktop/bin:/snap/bin:/opt/xtensa-esp-elf/bin/:/opt/xtensa-esp-elf/bin/', 'WT_SESSION': '7ae239e3-131e-4941-8c10-b1a815f2053c', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/home/mfauzi/ros2_ws/install/my_robot_description:/opt/ros/jazzy', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/home/mfauzi/wsl2-ros2-course/build/ros2_course', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/mfauzi/wsl2-ros2-course/build/ros2_course/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages:/home/mfauzi/ros2_ws/install/my_robot_description/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_sim_vendor:/opt/ros/jazzy/opt/gz_sensors_vendor:/opt/ros/jazzy/opt/gz_physics_vendor:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_gui_vendor:/opt/ros/jazzy/opt/gz_transport_vendor:/opt/ros/jazzy/opt/gz_rendering_vendor:/opt/ros/jazzy/opt/gz_plugin_vendor:/opt/ros/jazzy/opt/gz_fuel_tools_vendor:/opt/ros/jazzy/opt/gz_msgs_vendor:/opt/ros/jazzy/opt/gz_common_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_ogre_next_vendor:/opt/ros/jazzy/opt/gz_dartsim_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}, 'shell': False}
+[2.115986] (-) TimerEvent: {}
+[2.216457] (-) TimerEvent: {}
+[2.316980] (-) TimerEvent: {}
+[2.417555] (-) TimerEvent: {}
+[2.518106] (-) TimerEvent: {}
+[2.557020] (ros2_course) StdoutLine: {'line': b'running egg_info\n'}
+[2.557476] (ros2_course) StdoutLine: {'line': b'creating ../../build/ros2_course/ros2_course.egg-info\n'}
+[2.585742] (ros2_course) StdoutLine: {'line': b'writing ../../build/ros2_course/ros2_course.egg-info/PKG-INFO\n'}
+[2.587197] (ros2_course) StdoutLine: {'line': b'writing dependency_links to ../../build/ros2_course/ros2_course.egg-info/dependency_links.txt\n'}
+[2.587879] (ros2_course) StdoutLine: {'line': b'writing requirements to ../../build/ros2_course/ros2_course.egg-info/requires.txt\n'}
+[2.588449] (ros2_course) StdoutLine: {'line': b'writing top-level names to ../../build/ros2_course/ros2_course.egg-info/top_level.txt\n'}
+[2.588609] (ros2_course) StdoutLine: {'line': b"writing manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'\n"}
+[2.618450] (-) TimerEvent: {}
+[2.648370] (ros2_course) StdoutLine: {'line': b"reading manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'\n"}
+[2.649694] (ros2_course) StdoutLine: {'line': b"writing manifest file '../../build/ros2_course/ros2_course.egg-info/SOURCES.txt'\n"}
+[2.650708] (ros2_course) StdoutLine: {'line': b'running build\n'}
+[2.650959] (ros2_course) StdoutLine: {'line': b'running build_py\n'}
+[2.651418] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build\n'}
+[2.652277] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib\n'}
+[2.653087] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course\n'}
+[2.653502] (ros2_course) StdoutLine: {'line': b'copying ros2_course/__init__.py -> /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course\n'}
+[2.653959] (ros2_course) StdoutLine: {'line': b'running install\n'}
+[2.661893] (ros2_course) StdoutLine: {'line': b'running install_lib\n'}
+[2.687865] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course\n'}
+[2.688598] (ros2_course) StdoutLine: {'line': b'copying /home/mfauzi/wsl2-ros2-course/build/ros2_course/build/lib/ros2_course/__init__.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course\n'}
+[2.689700] (ros2_course) StdoutLine: {'line': b'byte-compiling /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course/__init__.py to __init__.cpython-312.pyc\n'}
+[2.690644] (ros2_course) StdoutLine: {'line': b'running install_data\n'}
+[2.691380] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index\n'}
+[2.691540] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index\n'}
+[2.691895] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index/packages\n'}
+[2.692371] (ros2_course) StdoutLine: {'line': b'copying resource/ros2_course -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ament_index/resource_index/packages\n'}
+[2.692806] (ros2_course) StdoutLine: {'line': b'copying package.xml -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course\n'}
+[2.693314] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch\n'}
+[2.693810] (ros2_course) StdoutLine: {'line': b'copying launch/rsp.launch.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch\n'}
+[2.694259] (ros2_course) StdoutLine: {'line': b'copying launch/gazebo.launch.py -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/launch\n'}
+[2.695083] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf\n'}
+[2.695776] (ros2_course) StdoutLine: {'line': b'copying urdf/gazebo.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf\n'}
+[2.695936] (ros2_course) StdoutLine: {'line': b'copying urdf/robot.urdf.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf\n'}
+[2.696249] (ros2_course) StdoutLine: {'line': b'copying urdf/camera.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf\n'}
+[2.696700] (ros2_course) StdoutLine: {'line': b'copying urdf/inertial_macros.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf\n'}
+[2.697201] (ros2_course) StdoutLine: {'line': b'copying urdf/lidar.xacro -> /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/urdf\n'}
+[2.697651] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/config\n'}
+[2.698100] (ros2_course) StdoutLine: {'line': b'creating /home/mfauzi/wsl2-ros2-course/install/ros2_course/share/ros2_course/maps\n'}
+[2.698600] (ros2_course) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.718698] (-) TimerEvent: {}
+[2.726424] (ros2_course) StdoutLine: {'line': b'Copying ../../build/ros2_course/ros2_course.egg-info to /home/mfauzi/wsl2-ros2-course/install/ros2_course/lib/python3.12/site-packages/ros2_course-0.0.0-py3.12.egg-info\n'}
+[2.728938] (ros2_course) StdoutLine: {'line': b'running install_scripts\n'}
+[2.818913] (-) TimerEvent: {}
+[2.919503] (-) TimerEvent: {}
+[2.926999] (ros2_course) StdoutLine: {'line': b"writing list of installed files to '/home/mfauzi/wsl2-ros2-course/build/ros2_course/install.log'\n"}
+[2.965694] (ros2_course) CommandEnded: {'returncode': 0}
+[3.010400] (ros2_course) JobEnded: {'identifier': 'ros2_course', 'rc': 0}
+[3.014155] (-) EventReactorShutdown: {}
