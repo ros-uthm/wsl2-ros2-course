@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: ros2-course
-Version: 0.0.0
-Summary: Pakej pemodelan robot 2WD kursus ROS2
-Maintainer: mfauzi
-Maintainer-email: mfauzi@uthm.edu.my
-License: Apache License 2.0
-Provides-Extra: test
